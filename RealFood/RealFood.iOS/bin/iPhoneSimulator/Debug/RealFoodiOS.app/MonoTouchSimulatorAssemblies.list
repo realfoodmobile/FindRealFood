@@ -1,0 +1,14 @@
+System.Net.Http.dll
+mscorlib.dll
+System.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+System.Xml.dll
+Newtonsoft.Json.dll
+System.Runtime.Serialization.dll
+MonoTouch.FacebookConnect.dll
+Xamarin.Mobile.dll
+ModernHttpClient.iOS.dll
+AFNetworking.dll
+MonoTouch.Dialog-1.dll
+System.Json.dll
